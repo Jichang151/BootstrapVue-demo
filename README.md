@@ -1,2 +1,2 @@
-# BootstrapVue-demo
-This is a demo
+# bootstrapvue-demo
+This is a bootstrapvue-demo
